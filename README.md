@@ -14,7 +14,7 @@ Vinicius Porto
 - Lecture 9 - Flask
 - Lecture 10 - The End
 
-### CS50W - Introduction to Programming with Python
+### CS50P - Introduction to Programming with Python
 - Lecture 0 - Functions, Variables
 - Lecture 1 - Conditionals
 - Lecture 2 - Loops
