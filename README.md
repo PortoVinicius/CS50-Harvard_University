@@ -1,5 +1,5 @@
 # CS50 - Harvard University
-Nattawoot Denduangchai
+Vinicius Porto
 
 ### CS50 Lectures
 - Lecture 0 - Computational Thinking, Scratch
