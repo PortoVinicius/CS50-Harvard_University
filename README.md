@@ -8,3 +8,4 @@ Vinicius Porto
 - Lecture 3 - Exceptions
 - Lecture 4 - Libraries
 - Lecture 5 - Unit Tests
+- Lecture 6 - File I/O
