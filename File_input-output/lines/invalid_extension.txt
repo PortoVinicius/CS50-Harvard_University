@@ -1,2 +1,0 @@
-This is not a Python file.
-If you want to test your program correctly, you will need an example.py file.
